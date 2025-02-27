@@ -75,8 +75,8 @@ https://archive.ics.uci.edu/dataset/352/online+retail
 
 ## How to Run
 
-1.  Clone the repository:  `git clone <repository_url>`
-2.  Install the required libraries:  `pip install pandas numpy matplotlib seaborn`
+1.  Clone the repository
+2.  Install the required libraries
 3.  Open and run the `online_retail.ipynb` notebook using Jupyter Notebook or JupyterLab.
 
 ## Summary
@@ -95,4 +95,3 @@ The solution achieved project objectives by identifying key customer segments, s
 4.  **Top Performers:** Identified top-selling products and countries.
 5.  **Advanced Analysis:** Performed RFM analysis for customer segmentation, market basket analysis for product associations, and price sensitivity analysis.
 6. **Findings and report:** Made Findings and Conclusions report.
-7. 
