@@ -61,8 +61,8 @@ https://archive.ics.uci.edu/dataset/352/online+retail
 
 ## Project Structure
 
-*   `Online Retail.xlsx`: The dataset.
-*   `online_retail.ipynb`:  The Jupyter Notebook containing the complete analysis, code, visualizations, and findings.
+*   [`Online Retail.xlsx`](Online%20Retail.xlsx): The dataset.: The dataset.
+*   [`online_retail.ipynb`](online_retail.ipynb):  The Jupyter Notebook containing the complete analysis, code, visualizations, and findings.
 
 ## Tools and Libraries
 
