@@ -10,6 +10,7 @@
   - [Summary](#summary)
   - [Solution](#solution)
   - [Approach](#approach)
+  - [License](#license)
 
 # E-commerce Sales Analysis
 
@@ -95,3 +96,7 @@ The solution achieved project objectives by identifying key customer segments, s
 4.  **Top Performers:** Identified top-selling products and countries.
 5.  **Advanced Analysis:** Performed RFM analysis for customer segmentation, market basket analysis for product associations, and price sensitivity analysis.
 6. **Findings and report:** Made Findings and Conclusions report.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file included in this repository for details.
