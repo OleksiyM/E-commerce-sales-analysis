@@ -1,3 +1,16 @@
+- [E-commerce Sales Analysis](#e-commerce-sales-analysis)
+  - [Project Overview](#project-overview)
+  - [Project Objectives](#project-objectives)
+  - [Dataset](#dataset)
+  - [Key Findings](#key-findings)
+  - [Key Recommendations](#key-recommendations)
+  - [Project Structure](#project-structure)
+  - [Tools and Libraries](#tools-and-libraries)
+  - [How to Run](#how-to-run)
+  - [Summary](#summary)
+  - [Solution](#solution)
+  - [Approach](#approach)
+
 # E-commerce Sales Analysis
 
 ## Project Overview
